@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azharluthfi14
+<h1 align='center'>👋 Hi, I’m Azhar Luthfi</h1>
 
 <!---
 azharluthfi14/azharluthfi14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
